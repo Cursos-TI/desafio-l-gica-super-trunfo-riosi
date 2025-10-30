@@ -103,6 +103,7 @@ int main() {
         break;
     
     default:
+    printf("Opção inválida.");
         break;
     }   
 
